@@ -2,11 +2,12 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![screenshot of movieland app](./src/image/Screenshot%202023-01-28%20at%2011.27.21%20PM%201.png)
-
 ## Description
 
   This application built using ReactJS. With the use of a third party api (OMDB api) users can search for any movies or series and a list of options appeears.
+
+![screenshot of movieland app](./src/image/Screenshot%202023-01-28%20at%2011.27.21%20PM%201.png)
+
 
   ## Table of Contents
 
